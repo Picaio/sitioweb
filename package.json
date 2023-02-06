@@ -1,0 +1,48 @@
+{
+  "name": "seosight",
+  "version": "1.0.0",
+  "description": "HTML-template",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "scripts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Seosight"
+  },
+  "keywords": [
+    "html",
+    "template",
+    "seo"
+  ],
+  "author": "Crumina",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-cache": "^0.4.6",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-htmlhint": "^3.0.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^6.2.0",
+    "gulp-install": "^1.1.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^3.2.1",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^2.1.2",
+    "gulp-watch": "^5.0.1",
+    "rimraf": "^2.5.2",
+    "run-sequence": "^1.2.2"
+  },
+  "dependencies": {
+    "del": "^2.2.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-inject-string": "^1.1.2",
+    "gulp-replace": "^1.0.0",
+    "gulp-run-sequence": "^0.3.2",
+    "gulp-zip": "^5.0.1"
+  }
+}
