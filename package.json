@@ -38,7 +38,7 @@
     "run-sequence": "^1.2.2"
   },
   "dependencies": {
-    "del": "^2.2.2",
+    "del": "^7.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-inject-string": "^1.1.2",
     "gulp-replace": "^1.0.0",
